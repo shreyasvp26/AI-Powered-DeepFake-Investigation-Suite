@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Mac
+.DS_Store
+
+# Data
+data/
+*.mp4
+*.avi
+*.jpg
+*.png
+
+# Models
+models/
+*.pt
+*.pth
+*.onnx
+
+# Logs
+logs/
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
